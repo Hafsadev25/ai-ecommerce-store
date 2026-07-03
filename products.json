@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1, "brand": "Acer", "model": "Predator Helios 300", "price": 149990,
+    "gpu": "RTX 3060", "ram": "16GB", "storage": "1TB SSD", "cpu": "Intel i7",
+    "image": "https://i.imgur.com/3wXbq5L.jpg"
+  },
+  {
+    "id": 2, "brand": "Dell", "model": "G15 5520", "price": 135000,
+    "gpu": "RTX 3050", "ram": "16GB", "storage": "512GB SSD", "cpu": "Intel i5",
+    "image": "https://i.imgur.com/7Qz1Y2k.jpg"
+  },
+  {
+    "id": 3, "brand": "HP", "model": "Victus 16", "price": 128000,
+    "gpu": "GTX 1650", "ram": "8GB", "storage": "512GB SSD", "cpu": "AMD Ryzen 5",
+    "image": "https://i.imgur.com/9k2Lz4M.jpg"
+  },
+  {
+    "id": 4, "brand": "Lenovo", "model": "Legion 5", "price": 159990,
+    "gpu": "RTX 3070", "ram": "16GB", "storage": "1TB SSD", "cpu": "AMD Ryzen 7",
+    "image": "https://i.imgur.com/5p9V1nA.jpg"
+  },
+  {
+    "id": 5, "brand": "Asus", "model": "TUF F15", "price": 119990,
+    "gpu": "RTX 3050", "ram": "8GB", "storage": "512GB SSD", "cpu": "Intel i5",
+    "image": "https://i.imgur.com/2xM3y6B.jpg"
+  },
+  {
+    "id": 6, "brand": "MSI", "model": "GF63 Thin", "price": 110000,
+    "gpu": "GTX 1650", "ram": "8GB", "storage": "512GB SSD", "cpu": "Intel i5",
+    "image": "https://i.imgur.com/8nL4c7D.jpg"
+  },
+  {
+    "id": 7, "brand": "Acer", "model": "Nitro 5", "price": 125000,
+    "gpu": "RTX 3050 Ti", "ram": "16GB", "storage": "512GB SSD", "cpu": "AMD Ryzen 5",
+    "image": "https://i.imgur.com/1aZ5d8E.jpg"
+  },
+  {
+    "id": 8, "brand": "Dell", "model": "XPS 15", "price": 210000,
+    "gpu": "RTX 4070", "ram": "32GB", "storage": "1TB SSD", "cpu": "Intel i9",
+    "image": "https://i.imgur.com/6bC9f0G.jpg"
+  },
+  {
+    "id": 9, "brand": "HP", "model": "Omen 17", "price": 185000,
+    "gpu": "RTX 4060", "ram": "16GB", "storage": "1TB SSD", "cpu": "Intel i7",
+    "image": "https://i.imgur.com/4dE2h1F.jpg"
+  },
+  {
+    "id": 10, "brand": "Lenovo", "model": "IdeaPad Gaming 3", "price": 95000,
+    "gpu": "GTX 1650", "ram": "8GB", "storage": "256GB SSD", "cpu": "AMD Ryzen 5",
+    "image": "https://i.imgur.com/0gH3j2K.jpg"
+  }
+]
