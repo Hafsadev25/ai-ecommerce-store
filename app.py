@@ -90,7 +90,7 @@ for i, product in enumerate(filtered_products):
             #st.image(product["image"], width='stretch') # Fixed warning
             st.markdown(f"### {product['brand']} {product['model']}")
             st.markdown(f"**Price: ₹{product['price']}**")
-            st.markdown(f"*{product['gpu']}, {product['ram']} RAM, {product['storage']} SSD*")
+            st.markdown(f"*{product['gpu']}, {product['ram']} RAM, {product['storage']}*")
 
             # Add to Cart Button
             if st.button("🛒 Add to Cart", key=f"cart_{product['id']}", use_container_width=True):
