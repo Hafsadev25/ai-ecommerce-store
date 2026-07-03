@@ -60,7 +60,7 @@ if search_query:
     filtered_products = []
     
     for p in products:
-        name_match = query in p["name"].lower()
+        name_match = query in f"{p['brand']} {p['model']}".lower()
         specs_match = query in p["gpu"].lower()
         price_match = False
         
